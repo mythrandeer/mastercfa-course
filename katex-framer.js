@@ -6,6 +6,6 @@
         { left: '$', right: '$', display: false }
       ],
       throwOnError: false
-    });
-    });
+    })
+  });
 </script>
